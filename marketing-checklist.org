@@ -347,13 +347,13 @@ every year adds to its potency.
 - [ ] Review industry-related books on Amazon, Goodreads.
 - [ ] Write how-to guides/videos related to your product/industry:
 - [ ] *How-to sites* [0/7]
-  - [ ] [Snapguide](https://snapguide.com/) 
-  - [ ] [Guides.co](http://guides.co/) 
-  - [ ] [eHow](http://www.ehow.com/write-for-ehow/) 
-  - [ ] [Lynda](https://www.lynda.com/) 
-  - [ ] [Pluralsight](https://www.pluralsight.com/teach) 
-  - [ ] [Skillshare](https://www.skillshare.com/) 
-  - [ ] [Udemy](https://www.udemy.com/)
+  - [ ] [[https://snapguide.com/][Snapguide]]
+  - [ ] [[http://guides.co/][Guides.co]]
+  - [ ] [[http://www.ehow.com/write-for-ehow/eHow][eHow]]
+  - [ ] [[https://www.lynda.com/][Lynda]]
+  - [ ] [[https://www.pluralsight.com/teach][Pluralsight]]
+  - [ ] [[https://www.skillshare.com/][Skillshare]]
+  - [ ] [[https://www.udemy.com/][Udemy]]
 
 * Optimizations [0/19]
 - [ ] Run a customer poll (can also generate content for your blog or
